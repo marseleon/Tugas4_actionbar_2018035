@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pertemuan4_ActionBar</string>
+    <string name="deskription_menu">deskripsi</string>
+    <string name="cenil">cenil</string>
+    <string name="ingredients">ingredients</string>
+    <string name="Resep">resep</string>
+    <string name="price">price</string>
+    <string name="Harga_Cenil">harga</string>
+    <string name="saran_menu">saran</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+
+</resources>
